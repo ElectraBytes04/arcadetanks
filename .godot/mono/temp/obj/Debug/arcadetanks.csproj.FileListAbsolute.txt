@@ -1,0 +1,17 @@
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/bin/Debug/arcadetanks.deps.json
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/bin/Debug/arcadetanks.runtimeconfig.json
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/bin/Debug/arcadetanks.dll
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/bin/Debug/arcadetanks.pdb
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.csproj.AssemblyReference.cache
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.GeneratedMSBuildEditorConfig.editorconfig
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.AssemblyInfoInputs.cache
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.AssemblyInfo.cs
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.csproj.CoreCompileInputs.cache
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.csproj.CopyComplete
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.dll
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/refint/arcadetanks.dll
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.pdb
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.genruntimeconfig.cache
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/ref/arcadetanks.dll

@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/colin/projects/gamedev/arcadetanks/arcadetanks.csproj": {}
+  },
+  "projects": {
+    "/home/colin/projects/gamedev/arcadetanks/arcadetanks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/colin/projects/gamedev/arcadetanks/arcadetanks.csproj",
+        "projectName": "arcadetanks",
+        "projectPath": "/home/colin/projects/gamedev/arcadetanks/arcadetanks.csproj",
+        "packagesPath": "/home/colin/.nuget/packages/",
+        "outputPath": "/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/colin/.local/share/godot/mono/GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/colin/.nuget/NuGet/NuGet.Config",
+          "/home/colin/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Godot.SourceGenerators": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "GodotSharp": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "GodotSharpEditor": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/colin/.dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

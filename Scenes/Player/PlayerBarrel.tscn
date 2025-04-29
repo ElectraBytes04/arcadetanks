@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://bc75gbjhxsi3"]
+
+[ext_resource type="Script" uid="uid://cj3k43g36drp" path="res://Scripts/PlayerTankTop.cs" id="1_fmv2g"]
+[ext_resource type="Texture2D" uid="uid://dxdxk4k0dyium" path="res://Assets/Art/PlayerTankBarrel1.png" id="2_gfcpx"]
+
+[node name="PlayerBarrel" type="Node2D" groups=["player"]]
+script = ExtResource("1_fmv2g")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+scale = Vector2(4, 4)
+texture = ExtResource("2_gfcpx")
+offset = Vector2(4.5, 0)
+
+[node name="Muzzle" type="Marker2D" parent="."]
+position = Vector2(54, 5.00222e-12)
+rotation = 1.5708
+scale = Vector2(12, 24.1891)

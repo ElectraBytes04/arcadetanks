@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQg/OOqiTluQXchSCTygbhoAho1ZwJj159z3cR4gQ7epPkFOUDyrckZPxf5g9DKKB4vTYU41QnIL9KaGIap7kA==",
+  "success": true,
+  "projectFilePath": "/home/colin/projects/gamedev/arcadetanks/arcadetanks.csproj",
+  "expectedPackageFiles": [
+    "/home/colin/.nuget/packages/godot.sourcegenerators/4.4.1/godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "/home/colin/.nuget/packages/godotsharp/4.4.1/godotsharp.4.4.1.nupkg.sha512",
+    "/home/colin/.nuget/packages/godotsharpeditor/4.4.1/godotsharpeditor.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
