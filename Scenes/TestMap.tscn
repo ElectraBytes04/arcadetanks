@@ -10,9 +10,9 @@ size = Vector2(27.5, 575.5)
 
 [node name="Camera2D" type="Camera2D" parent="."]
 
-[node name="PlayerBody" parent="." groups=["player"] instance=ExtResource("1_xh66l")]
+[node name="PlayerBody" parent="." instance=ExtResource("1_xh66l")]
 
-[node name="PlayerBarrel" parent="." groups=["player"] instance=ExtResource("2_n6t57")]
+[node name="PlayerBarrel" parent="." instance=ExtResource("2_n6t57")]
 
 [node name="LevelBoundary" type="StaticBody2D" parent="." groups=["levelBoundaries"]]
 position = Vector2(348, 2)

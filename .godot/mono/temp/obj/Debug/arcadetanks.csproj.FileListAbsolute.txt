@@ -15,3 +15,4 @@
 /home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.pdb
 /home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.genruntimeconfig.cache
 /home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/ref/arcadetanks.dll
+/home/colin/projects/gamedev/arcadetanks/.godot/mono/temp/obj/Debug/arcadetanks.sourcelink.json

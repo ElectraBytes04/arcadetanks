@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arcadetanks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1af507f8675fc9d0475b3e9ed02ae95ad66f390")]
 [assembly: System.Reflection.AssemblyProductAttribute("arcadetanks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arcadetanks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
